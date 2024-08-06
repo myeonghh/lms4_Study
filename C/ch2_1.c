@@ -16,10 +16,10 @@
 // main 함수는 리턴값이 없어도 무조건 '0'을 반환함(자동으로 0을 반환 => 성공), 그래도 명시하는게 맞음
 // rturn 0 은 실패하지 않았다는 의미(성공)
 
-int main(void) /* a simple program             */
+int main(void) 
 {
-    int num; /* define a variable called num */
-    num = 1; /* assign a value to num        */
+    int num; 
+    num = 1; 
     // int num = 1;
     // C에서는 기본값이 없음(다른 언어는 기본값이 있음 ex) 'int => 0' ) 무조건 값을 넣어주어야됨(초기화)
 
