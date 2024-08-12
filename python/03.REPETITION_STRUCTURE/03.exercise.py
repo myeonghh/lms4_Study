@@ -189,3 +189,4 @@ for i in range(2, 10):
         print(f"{i} x {j} = {i*j}",end ="\t")
     print("\n")
 
+    
