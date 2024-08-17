@@ -16,6 +16,7 @@ void autoC(int arr[][6], int num);
 void semiAutoC(int arr[][6], int num);
 void manualC(int arr[][6], int num);
 int static compare (const void* first, const void* second);
+void date (void);
 
 
 int main(void)
@@ -68,6 +69,8 @@ int main(void)
         }
          
     }
+
+    date();
 
     return 0;
 }
@@ -247,5 +250,40 @@ int static compare (const void* first, const void* second)
         return -1;
     else
         return 0;
+}
+
+void date (void)
+{
+    #define RESETTEXT "\x1B[0m" // Set all colors back to normal.
+    #define FOREMAG "\x1B[35m"  // Magenta
+    #define FORERED "\x1B[31m"  // Red
+    
+    #define DAY_OF_WEEK_SIZE 7
+    const static char *DAY_OF_WEEK[DAY_OF_WEEK_SIZE] = {
+    "Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"};
+ 
+    time_t current;
+    time(&current);
+    struct tm *t = localtime(&current);
+ 
+    printf("-------- 💰 Lotto 6/45 💰 --------");
+    printf(FOREMAG);
+    printf("\n");
+    printf("발행일:");
+    printf("%d", t->tm_year + 1900);
+    printf("/");
+    printf("%02d", t->tm_mon + 1);
+    printf("/");
+    printf("%02d", t->tm_mday);
+    printf("(");
+    printf("%s", DAY_OF_WEEK[t->tm_wday]);
+    printf(") ");
+    printf("%02d", t->tm_hour);
+    printf(":");
+    printf("%02d", t->tm_min);
+    printf(":");
+    printf("%02d", t->tm_sec);
+    printf("\n");
+    printf(RESETTEXT);
 }
 
