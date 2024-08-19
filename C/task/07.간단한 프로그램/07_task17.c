@@ -32,13 +32,10 @@ int main()
     for (i = 0; i < arrLen; i++)
         printf("%d ", ranNumArr[i]);
         
-    printf("\n");
-    
     // 야구게임 9라운드 시작
     for (cnt = 1; cnt < 10; cnt++)
     {
-        printf("\n");
-        printf("     [ %d Round ]\n", cnt);
+        printf("\n     [ %d Round ]\n", cnt);
         quitCheck = playerInput(playerNumArr, arrLen);
         if (quitCheck == 0)
             {
@@ -160,3 +157,39 @@ int sboCheck(int cArr[], int pArr[], int len)
     if (strikeCnt == 3)
         return 0;
 }
+
+// <실행 결과>
+//      [ 1 Round ]
+// Enter number 1 ~ 9 : 5
+// Enter number 1 ~ 9 : 1
+// Enter number 1 ~ 9 : 9
+
+//    입력한 숫자: 5 1 9 
+// [ Strike: 1,  Ball: 0 ]
+
+//      [ 2 Round ]
+// Enter number 1 ~ 9 : 1
+// Enter number 1 ~ 9 : 2
+// Enter number 1 ~ 9 : 4
+
+//    입력한 숫자: 1 2 4 
+// [ Strike: 0,  Ball: 1 ]
+
+//      [ 3 Round ]
+// Enter number 1 ~ 9 : 8
+// Enter number 1 ~ 9 : 1
+// Enter number 1 ~ 9 : 6
+
+//    입력한 숫자: 8 1 6 
+// [ Strike: 1,  Ball: 2 ]
+
+//      [ 4 Round ]
+// Enter number 1 ~ 9 : 6
+// Enter number 1 ~ 9 : 1
+// Enter number 1 ~ 9 : 8
+
+//    입력한 숫자: 6 1 8 
+// [ Strike: 3,  Ball: 0 ]
+
+// ========= Win =========
+// 게임 종료
