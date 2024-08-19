@@ -16,7 +16,6 @@ int main(void)
     return 0;
 }
 
-
 int numSum(int ar[])
 {
     int min, max, i, sum;
@@ -40,3 +39,7 @@ int numSum(int ar[])
 
     return sum;
 }
+
+// <실행 결과>
+// 숫자 3개를 입력하세요: 5 12 7
+// 가장 큰 숫자, 가장 작은 숫자 사이의 합: 51
