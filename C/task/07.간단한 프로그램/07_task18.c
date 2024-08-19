@@ -22,7 +22,7 @@ void date (void);
 int main(void)
 {
 
-    int num1, num2, i;
+    int num1, num2, i, j, k;
     printf("-------------Lotto--------------\n");
 
     printf("System : 몇개를 구매 하시겠어요?('q'입력시 종료)\n");
@@ -72,6 +72,13 @@ int main(void)
 
     date();
 
+    for (i =0; i< num1; i++)
+    {    
+        for (j = 0; j <6; j++)
+            printf("%2d ", lottoArray[i][j]);
+        printf("\n");
+    }
+
     return 0;
 }
 
@@ -102,16 +109,15 @@ void autoC(int arr[][6], int num)
                     j--;
                     continue;
                 }           
-        }      
-    }   
-    for (i =0; i< 6; i++)
-        qsort(arr[i],6,sizeof(int),compare);
-    for (i =0; i< num; i++)
-    {    
-        for (j = 0; j <6; j++)
-            printf("%2d ", arr[i][j]);
-        printf("\n");
-    }
+        }
+        qsort(arr[i],6,sizeof(int),compare);      
+    }           
+    // for (i =0; i< num; i++)
+    // {    
+    //     for (j = 0; j <6; j++)
+    //         printf("%2d ", arr[i][j]);
+    //     printf("\n");
+    // }
 }
 
 
@@ -179,17 +185,14 @@ void semiAutoC(int arr[][6], int num)
                     continue;
                 }               
         }
-    }
-
-    for (i =0; i< 6; i++)
         qsort(arr[i],6,sizeof(int),compare);
-
-    for (i =0; i< num; i++)
-    {    
-        for (j = 0; j <6; j++)
-            printf("%2d ", arr[i][j]);
-        printf("\n");
     }
+    // for (i =0; i< num; i++)
+    // {    
+    //     for (j = 0; j <6; j++)
+    //         printf("%2d ", arr[i][j]);
+    //     printf("\n");
+    // }
 }
 
 
@@ -229,16 +232,14 @@ void manualC(int arr[][6], int num)
                     continue;
                 }           
         }
-    }
-    for (i =0; i< 6; i++)
         qsort(arr[i],6,sizeof(int),compare);
-
-    for (i =0; i< num; i++)
-    {    
-        for (j = 0; j <6; j++)
-            printf("%2d ", arr[i][j]);
-        printf("\n");
     }
+    // for (i =0; i< num; i++)
+    // {    
+    //     for (j = 0; j <6; j++)
+    //         printf("%2d ", arr[i][j]);
+    //     printf("\n");
+    // }
 }
 
 
