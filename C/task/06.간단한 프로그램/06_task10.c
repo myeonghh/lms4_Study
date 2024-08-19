@@ -1,78 +1,64 @@
 // 간단한 프로그램 함수로 구현하기 10
 // 화살표 만들기
-// (입력 없이 그냥 모양만 비슷하게 해도 됨, 출력 정렬 사용 안됨)
-
 
 #include <stdio.h>
-void makeDm(int);
-int makeOddNum(int);
 
 int main(void)
 {
+    int i,j,k,l;
     int num;
-    printf("정수 입력('0'이하 입력시 종료):");
-    scanf("%d", &num);
-    num = makeOddNum(num);
+    printf("입력 >>");
+    scanf("%d",&num);
+    if (num % 2 == 0)
+        num = num -1;
 
-    while (num > 0)
+    for(i=0;i<num;i++)
     {
-        makeDm(num);
-        printf("정수 입력('0'이하 입력시 종료):");
-        scanf("%d", &num);
-        num = makeOddNum(num);
-    }
-    return 0;
-}
-
-void makeDm(int n)
-{
-    int frontN, backN, i, j, k, l;
-
-    frontN = (n / 2);
-    backN = n - frontN;
-
-    for (i = 1; i <= frontN; i++)
-    {
-        for (j = 1; j <= i; j++)
+        for(j=0;j<num-i;j++)
         {
-            printf("X");
+            printf("   ");
         }
-        for (k = 1; k <= n-(i*2); k++)
+        for(k=0; k<2*i+1;k++)
         {
-            printf(" ");
+            printf(" * ");
         }
-        for (l = 1; l <= i; l++)
+        for(l=0;l<num-i;l++)
         {
-            printf("X");
+            printf("   ");
         }
         printf("\n");
-    } 
-
-    for (i =1; i <= n; i++)
-    {
-        printf("X");
     }
-    printf("\n");
-
-    for (i = 1; i <= backN; i++)
+    for(i = 0; i<num; i++)
     {
-        for (j = 1; j <= backN-i; j++)
+        for(j=0;j<num/2+1;j++)
         {
-            printf("X");
+            printf("   ");
         }
-        for(k = 1; k < i*2; k++)
+        for(k=0;k<num;k++)
         {
-            printf(" ");
+            printf(" * ");
         }
-        for (l = 1; l <= backN-i; l++)
+        for(l=0;l<3;l++)
         {
-            printf("X");
+            printf("   ");
         }
         printf("\n");
     }
 }
 
-int makeOddNum(int n)
-{
-   return (n % 2 == 0)? n - 1 : n;
-}
+// <실행 결과>
+// 입력 >>8
+//                       *                      
+//                    *  *  *                   
+//                 *  *  *  *  *                
+//              *  *  *  *  *  *  *             
+//           *  *  *  *  *  *  *  *  *          
+//        *  *  *  *  *  *  *  *  *  *  *       
+//     *  *  *  *  *  *  *  *  *  *  *  *  *    
+//              *  *  *  *  *  *  *          
+//              *  *  *  *  *  *  *          
+//              *  *  *  *  *  *  *          
+//              *  *  *  *  *  *  *          
+//              *  *  *  *  *  *  *          
+//              *  *  *  *  *  *  *          
+//              *  *  *  *  *  *  *          
