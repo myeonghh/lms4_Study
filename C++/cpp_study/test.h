@@ -6,5 +6,6 @@ class test
 public:
     test();
 };
+// hi
 
 #endif // TEST_H
