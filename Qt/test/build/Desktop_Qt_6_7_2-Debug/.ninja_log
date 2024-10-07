@@ -1,0 +1,8 @@
+# ninja log v6
+1	16	1728264016398217380	test_autogen/timestamp	749511bafdd30a72
+1	16	1728264016398217380	test_autogen/mocs_compilation.cpp	749511bafdd30a72
+1	16	1728264016398217380	/home/lms105/project/lms4_study/Qt/test/build/Desktop_Qt_6_7_2-Debug/test_autogen/timestamp	749511bafdd30a72
+1	16	1728264016398217380	/home/lms105/project/lms4_study/Qt/test/build/Desktop_Qt_6_7_2-Debug/test_autogen/mocs_compilation.cpp	749511bafdd30a72
+16	29	1728264016401217360	CMakeFiles/test.dir/test_autogen/mocs_compilation.cpp.o	83c1be524707c97
+17	936	1728264016402217354	CMakeFiles/test.dir/main.cpp.o	f5bf2d75ab28a147
+936	1049	1728264017321211479	test	a0a432cd0214dd96
