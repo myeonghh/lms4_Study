@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_17_QSizeGrip_FILE /home/lms105/Qt_textbook/ch05/17_QSizeGrip/build/Desktop_Qt_6_7_2-Debug/17_QSizeGrip)
+set(__QT_DEPLOY_TARGET_17_QSizeGrip_TYPE EXECUTABLE)

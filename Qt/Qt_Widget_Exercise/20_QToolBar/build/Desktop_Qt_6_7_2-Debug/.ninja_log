@@ -1,0 +1,12 @@
+# ninja log v6
+2	228	1728368597312069977	20_QToolBar_autogen/timestamp	9556c45f21dac2e1
+2	228	1728368597312069977	20_QToolBar_autogen/mocs_compilation.cpp	9556c45f21dac2e1
+2	228	1728368597312069977	/home/lms105/Qt_textbook/ch05/20_QToolBar/build/Desktop_Qt_6_7_2-Debug/20_QToolBar_autogen/timestamp	9556c45f21dac2e1
+2	228	1728368597312069977	/home/lms105/Qt_textbook/ch05/20_QToolBar/build/Desktop_Qt_6_7_2-Debug/20_QToolBar_autogen/mocs_compilation.cpp	9556c45f21dac2e1
+229	244	1728368597331069785	20_QToolBar_autogen/EWIEGA46WW/qrc_resources.cpp	e9888fea826bd11f
+229	244	1728368597331069785	/home/lms105/Qt_textbook/ch05/20_QToolBar/build/Desktop_Qt_6_7_2-Debug/20_QToolBar_autogen/EWIEGA46WW/qrc_resources.cpp	e9888fea826bd11f
+245	283	1728368597334069754	CMakeFiles/20_QToolBar.dir/20_QToolBar_autogen/EWIEGA46WW/qrc_resources.cpp.o	486c3f7ca524c182
+244	1335	1728368597333069764	CMakeFiles/20_QToolBar.dir/20_QToolBar_autogen/mocs_compilation.cpp.o	1a9591cde293d29b
+244	1360	1728368597333069764	CMakeFiles/20_QToolBar.dir/widget.cpp.o	9ff03ee0e22b2673
+244	1382	1728368597333069764	CMakeFiles/20_QToolBar.dir/main.cpp.o	89c74e3ce7b9280a
+1382	1726	1728368598471058268	20_QToolBar	641e9c06b999ba7e

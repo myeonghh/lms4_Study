@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_20_QToolBar_FILE /home/lms105/Qt_textbook/ch05/20_QToolBar/build/Desktop_Qt_6_7_2-Debug/20_QToolBar)
+set(__QT_DEPLOY_TARGET_20_QToolBar_TYPE EXECUTABLE)

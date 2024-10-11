@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-644d83a7c06f55f84d02.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "17_QSizeGrip",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "17_QSizeGrip::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-17_QSizeGrip-Debug-38c80387011539e6aed5.json",
+					"name" : "17_QSizeGrip",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "17_QSizeGrip_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-17_QSizeGrip_autogen-Debug-d24747a3a9ba4d143b13.json",
+					"name" : "17_QSizeGrip_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "17_QSizeGrip_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-17_QSizeGrip_autogen_timestamp_deps-Debug-fbec4e94ad2ed2d4874f.json",
+					"name" : "17_QSizeGrip_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/lms105/Qt_textbook/ch05/17_QSizeGrip/build/Desktop_Qt_6_7_2-Debug",
+		"source" : "/home/lms105/Qt_textbook/ch05/17_QSizeGrip"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

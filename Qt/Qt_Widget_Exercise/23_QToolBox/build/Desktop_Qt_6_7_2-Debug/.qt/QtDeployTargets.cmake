@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_23_QToolBox_FILE /home/lms105/Qt_textbook/ch05/23_QToolBox/build/Desktop_Qt_6_7_2-Debug/23_QToolBox)
+set(__QT_DEPLOY_TARGET_23_QToolBox_TYPE EXECUTABLE)

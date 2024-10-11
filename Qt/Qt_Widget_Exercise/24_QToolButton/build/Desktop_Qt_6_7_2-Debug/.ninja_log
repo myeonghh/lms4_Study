@@ -1,0 +1,12 @@
+# ninja log v6
+1	222	1728371803986235618	24_QToolButton_autogen/timestamp	139075fa055258a2
+1	222	1728371803986235618	24_QToolButton_autogen/mocs_compilation.cpp	139075fa055258a2
+1	222	1728371803986235618	/home/lms105/Qt_textbook/ch05/24_QToolButton/build/Desktop_Qt_6_7_2-Debug/24_QToolButton_autogen/timestamp	139075fa055258a2
+1	222	1728371803986235618	/home/lms105/Qt_textbook/ch05/24_QToolButton/build/Desktop_Qt_6_7_2-Debug/24_QToolButton_autogen/mocs_compilation.cpp	139075fa055258a2
+223	239	1728371804007235484	24_QToolButton_autogen/EWIEGA46WW/qrc_resources.cpp	4b822f2fe10e4658
+223	239	1728371804007235484	/home/lms105/Qt_textbook/ch05/24_QToolButton/build/Desktop_Qt_6_7_2-Debug/24_QToolButton_autogen/EWIEGA46WW/qrc_resources.cpp	4b822f2fe10e4658
+239	278	1728371804009235472	CMakeFiles/24_QToolButton.dir/24_QToolButton_autogen/EWIEGA46WW/qrc_resources.cpp.o	a48af3eba7b98894
+239	1360	1728371804009235472	CMakeFiles/24_QToolButton.dir/widget.cpp.o	1e7ad8291d5648b0
+239	1368	1728371804009235472	CMakeFiles/24_QToolButton.dir/24_QToolButton_autogen/mocs_compilation.cpp.o	3a2572c3f9a4eef0
+239	1392	1728371804009235472	CMakeFiles/24_QToolButton.dir/main.cpp.o	889fc29945ef3300
+1392	1735	1728371805162228123	24_QToolButton	47c3ac705dd0fe70

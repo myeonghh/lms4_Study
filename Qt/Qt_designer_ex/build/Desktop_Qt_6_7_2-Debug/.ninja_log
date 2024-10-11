@@ -1,0 +1,25 @@
+# ninja log v6
+2	224	1728383470197546739	Qt_designer_ex_autogen/timestamp	a6f618430aad52ba
+2	224	1728383470197546739	Qt_designer_ex_autogen/mocs_compilation.cpp	a6f618430aad52ba
+2	224	1728383470197546739	/home/lms105/project/lms4_study/Qt/Qt_designer_ex/build/Desktop_Qt_6_7_2-Debug/Qt_designer_ex_autogen/timestamp	a6f618430aad52ba
+2	224	1728383470197546739	/home/lms105/project/lms4_study/Qt/Qt_designer_ex/build/Desktop_Qt_6_7_2-Debug/Qt_designer_ex_autogen/mocs_compilation.cpp	a6f618430aad52ba
+225	1367	1728383470204546717	CMakeFiles/Qt_designer_ex.dir/Qt_designer_ex_autogen/mocs_compilation.cpp.o	430983ea4b02c10b
+225	1388	1728383470204546717	CMakeFiles/Qt_designer_ex.dir/main.cpp.o	f1de5f218887dc8a
+225	1435	1728383470204546717	CMakeFiles/Qt_designer_ex.dir/widget.cpp.o	4e4dfa3d3ddeb7d2
+1435	1733	1728383471414542910	Qt_designer_ex	32c0cfaa702befad
+3	222	1728450943913779124	Qt_designer_ex_autogen/timestamp	a6f618430aad52ba
+3	222	1728450943913779124	Qt_designer_ex_autogen/mocs_compilation.cpp	a6f618430aad52ba
+3	222	1728450943913779124	/home/lms105/project/lms4_study/Qt/Qt_designer_ex/build/Desktop_Qt_6_7_2-Debug/Qt_designer_ex_autogen/timestamp	a6f618430aad52ba
+3	222	1728450943913779124	/home/lms105/project/lms4_study/Qt/Qt_designer_ex/build/Desktop_Qt_6_7_2-Debug/Qt_designer_ex_autogen/mocs_compilation.cpp	a6f618430aad52ba
+222	1372	1728450943919779117	CMakeFiles/Qt_designer_ex.dir/Qt_designer_ex_autogen/mocs_compilation.cpp.o	430983ea4b02c10b
+222	1383	1728450943919779117	CMakeFiles/Qt_designer_ex.dir/main.cpp.o	f1de5f218887dc8a
+223	1430	1728450943920779116	CMakeFiles/Qt_designer_ex.dir/widget.cpp.o	4e4dfa3d3ddeb7d2
+1430	1718	1728450945127777638	Qt_designer_ex	32c0cfaa702befad
+2	219	1728455484710232139	Qt_designer_ex_autogen/timestamp	a6f618430aad52ba
+2	219	1728455484710232139	Qt_designer_ex_autogen/mocs_compilation.cpp	a6f618430aad52ba
+2	219	1728455484710232139	/home/lms105/project/lms4_study/Qt/Qt_designer_ex/build/Desktop_Qt_6_7_2-Debug/Qt_designer_ex_autogen/timestamp	a6f618430aad52ba
+2	219	1728455484710232139	/home/lms105/project/lms4_study/Qt/Qt_designer_ex/build/Desktop_Qt_6_7_2-Debug/Qt_designer_ex_autogen/mocs_compilation.cpp	a6f618430aad52ba
+219	1340	1728455484715232108	CMakeFiles/Qt_designer_ex.dir/Qt_designer_ex_autogen/mocs_compilation.cpp.o	430983ea4b02c10b
+219	1360	1728455484715232108	CMakeFiles/Qt_designer_ex.dir/main.cpp.o	f1de5f218887dc8a
+220	1427	1728455484716232102	CMakeFiles/Qt_designer_ex.dir/widget.cpp.o	4e4dfa3d3ddeb7d2
+1427	1704	1728455485923224743	Qt_designer_ex	32c0cfaa702befad

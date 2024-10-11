@@ -1,0 +1,9 @@
+# ninja log v6
+2	256	1728371571792718993	23_QToolBox_autogen/timestamp	2b650bbe3dfeff0
+2	256	1728371571792718993	23_QToolBox_autogen/mocs_compilation.cpp	2b650bbe3dfeff0
+2	256	1728371571792718993	/home/lms105/Qt_textbook/ch05/23_QToolBox/build/Desktop_Qt_6_7_2-Debug/23_QToolBox_autogen/timestamp	2b650bbe3dfeff0
+2	256	1728371571792718993	/home/lms105/Qt_textbook/ch05/23_QToolBox/build/Desktop_Qt_6_7_2-Debug/23_QToolBox_autogen/mocs_compilation.cpp	2b650bbe3dfeff0
+258	1551	1728371571799718948	CMakeFiles/23_QToolBox.dir/widget.cpp.o	1f3a8080620fc6ba
+258	1623	1728371571799718948	CMakeFiles/23_QToolBox.dir/main.cpp.o	3184f4103340eab4
+258	1748	1728371571799718948	CMakeFiles/23_QToolBox.dir/23_QToolBox_autogen/mocs_compilation.cpp.o	e65faa024fb0a58
+1748	2137	1728371573289709403	23_QToolBox	a1b5601c2d195eb3

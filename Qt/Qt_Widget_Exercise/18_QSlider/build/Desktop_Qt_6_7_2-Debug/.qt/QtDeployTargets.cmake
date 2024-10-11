@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_18_QSlider_FILE /home/lms105/Qt_textbook/ch05/18_QSlider/build/Desktop_Qt_6_7_2-Debug/18_QSlider)
+set(__QT_DEPLOY_TARGET_18_QSlider_TYPE EXECUTABLE)

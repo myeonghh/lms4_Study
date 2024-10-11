@@ -1,0 +1,12 @@
+# ninja log v6
+1	287	1728368918391158572	21_QWidget_autogen/timestamp	2c978470b69e9166
+1	287	1728368918391158572	21_QWidget_autogen/mocs_compilation.cpp	2c978470b69e9166
+1	287	1728368918391158572	/home/lms105/Qt_textbook/ch05/21_QWidget/build/Desktop_Qt_6_7_2-Debug/21_QWidget_autogen/timestamp	2c978470b69e9166
+1	287	1728368918391158572	/home/lms105/Qt_textbook/ch05/21_QWidget/build/Desktop_Qt_6_7_2-Debug/21_QWidget_autogen/mocs_compilation.cpp	2c978470b69e9166
+288	303	1728368918411158408	21_QWidget_autogen/EWIEGA46WW/qrc_resources.cpp	b667150a04052777
+288	303	1728368918411158408	/home/lms105/Qt_textbook/ch05/21_QWidget/build/Desktop_Qt_6_7_2-Debug/21_QWidget_autogen/EWIEGA46WW/qrc_resources.cpp	b667150a04052777
+304	341	1728368918413158391	CMakeFiles/21_QWidget.dir/21_QWidget_autogen/EWIEGA46WW/qrc_resources.cpp.o	4d40694ee8618e29
+304	1589	1728368918413158391	CMakeFiles/21_QWidget.dir/main.cpp.o	fb71cc1e51f9edd1
+303	1646	1728368918412158400	CMakeFiles/21_QWidget.dir/21_QWidget_autogen/mocs_compilation.cpp.o	b74deffba4b81c38
+304	1687	1728368918413158391	CMakeFiles/21_QWidget.dir/widget.cpp.o	6a4e1cbf23973d6d
+1687	2038	1728368919796147022	21_QWidget	a355fd10342cba7f

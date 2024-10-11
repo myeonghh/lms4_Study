@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_22_QTabBar_FILE /home/lms105/Qt_textbook/ch05/22_QTabBar/build/Desktop_Qt_6_7_2-Debug/22_QTabBar)
+set(__QT_DEPLOY_TARGET_22_QTabBar_TYPE EXECUTABLE)

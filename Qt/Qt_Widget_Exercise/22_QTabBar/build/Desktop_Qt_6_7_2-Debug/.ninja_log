@@ -1,0 +1,12 @@
+# ninja log v6
+2	219	1728369809870839355	22_QTabBar_autogen/timestamp	f74801475c76876f
+2	219	1728369809870839355	22_QTabBar_autogen/mocs_compilation.cpp	f74801475c76876f
+2	219	1728369809870839355	/home/lms105/Qt_textbook/ch05/22_QTabBar/build/Desktop_Qt_6_7_2-Debug/22_QTabBar_autogen/timestamp	f74801475c76876f
+2	219	1728369809870839355	/home/lms105/Qt_textbook/ch05/22_QTabBar/build/Desktop_Qt_6_7_2-Debug/22_QTabBar_autogen/mocs_compilation.cpp	f74801475c76876f
+220	236	1728369809889839232	22_QTabBar_autogen/EWIEGA46WW/qrc_resources.cpp	61da3db454e0268c
+220	236	1728369809889839232	/home/lms105/Qt_textbook/ch05/22_QTabBar/build/Desktop_Qt_6_7_2-Debug/22_QTabBar_autogen/EWIEGA46WW/qrc_resources.cpp	61da3db454e0268c
+237	274	1728369809892839213	CMakeFiles/22_QTabBar.dir/22_QTabBar_autogen/EWIEGA46WW/qrc_resources.cpp.o	6171a4e5d36790dc
+236	1337	1728369809891839219	CMakeFiles/22_QTabBar.dir/widget.cpp.o	d90b60d2caca55c1
+236	1354	1728369809891839219	CMakeFiles/22_QTabBar.dir/22_QTabBar_autogen/mocs_compilation.cpp.o	caf6170549de0300
+236	1381	1728369809891839219	CMakeFiles/22_QTabBar.dir/main.cpp.o	c570481274494e1
+1381	1663	1728369811036831840	22_QTabBar	25ff188a7d0cda2b

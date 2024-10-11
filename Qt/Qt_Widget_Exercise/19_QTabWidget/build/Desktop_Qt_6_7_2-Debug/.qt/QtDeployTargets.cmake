@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_19_QTabWidget_FILE /home/lms105/Qt_textbook/ch05/19_QTabWidget/build/Desktop_Qt_6_7_2-Debug/19_QTabWidget)
+set(__QT_DEPLOY_TARGET_19_QTabWidget_TYPE EXECUTABLE)

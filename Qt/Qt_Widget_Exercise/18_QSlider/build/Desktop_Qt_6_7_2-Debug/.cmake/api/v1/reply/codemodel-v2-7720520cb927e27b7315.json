@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-758951634ad2e0087de5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "18_QSlider",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "18_QSlider::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-18_QSlider-Debug-0f8dfe530d4ebc537ee0.json",
+					"name" : "18_QSlider",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "18_QSlider_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-18_QSlider_autogen-Debug-f47143a32a83c0b3c39d.json",
+					"name" : "18_QSlider_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "18_QSlider_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-18_QSlider_autogen_timestamp_deps-Debug-7373a4600f846418b79e.json",
+					"name" : "18_QSlider_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/lms105/Qt_textbook/ch05/18_QSlider/build/Desktop_Qt_6_7_2-Debug",
+		"source" : "/home/lms105/Qt_textbook/ch05/18_QSlider"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

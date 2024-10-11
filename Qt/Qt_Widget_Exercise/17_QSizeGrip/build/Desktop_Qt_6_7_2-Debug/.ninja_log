@@ -1,0 +1,9 @@
+# ninja log v6
+1	234	1728366899671958499	17_QSizeGrip_autogen/timestamp	6bda6a35d4a6c6c7
+1	234	1728366899671958499	17_QSizeGrip_autogen/mocs_compilation.cpp	6bda6a35d4a6c6c7
+1	234	1728366899671958499	/home/lms105/Qt_textbook/ch05/17_QSizeGrip/build/Desktop_Qt_6_7_2-Debug/17_QSizeGrip_autogen/timestamp	6bda6a35d4a6c6c7
+1	234	1728366899671958499	/home/lms105/Qt_textbook/ch05/17_QSizeGrip/build/Desktop_Qt_6_7_2-Debug/17_QSizeGrip_autogen/mocs_compilation.cpp	6bda6a35d4a6c6c7
+235	1443	1728366899677958495	CMakeFiles/17_QSizeGrip.dir/17_QSizeGrip_autogen/mocs_compilation.cpp.o	b0d5b6cb16b89012
+235	1449	1728366899677958495	CMakeFiles/17_QSizeGrip.dir/widget.cpp.o	27af55db94640a4c
+235	1479	1728366899677958495	CMakeFiles/17_QSizeGrip.dir/main.cpp.o	fe83d7f5c6f17062
+1479	1761	1728366900921957557	17_QSizeGrip	f88d365d17a471f9

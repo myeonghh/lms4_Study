@@ -1,0 +1,18 @@
+# ninja log v6
+1	214	1728368152726628881	19_QTabWidget_autogen/timestamp	bf01bccba52e900
+1	214	1728368152726628881	19_QTabWidget_autogen/mocs_compilation.cpp	bf01bccba52e900
+1	214	1728368152726628881	/home/lms105/Qt_textbook/ch05/19_QTabWidget/build/Desktop_Qt_6_7_2-Debug/19_QTabWidget_autogen/timestamp	bf01bccba52e900
+1	214	1728368152726628881	/home/lms105/Qt_textbook/ch05/19_QTabWidget/build/Desktop_Qt_6_7_2-Debug/19_QTabWidget_autogen/mocs_compilation.cpp	bf01bccba52e900
+215	230	1728368152746628567	19_QTabWidget_autogen/EWIEGA46WW/qrc_resources.cpp	8f5dfff8e4793c81
+215	230	1728368152746628567	/home/lms105/Qt_textbook/ch05/19_QTabWidget/build/Desktop_Qt_6_7_2-Debug/19_QTabWidget_autogen/EWIEGA46WW/qrc_resources.cpp	8f5dfff8e4793c81
+231	269	1728368152748628535	CMakeFiles/19_QTabWidget.dir/19_QTabWidget_autogen/EWIEGA46WW/qrc_resources.cpp.o	451ab60a8bb18347
+230	1350	1728368152747628551	CMakeFiles/19_QTabWidget.dir/19_QTabWidget_autogen/mocs_compilation.cpp.o	5e04aba1ff6bc9f5
+231	1352	1728368152748628535	CMakeFiles/19_QTabWidget.dir/widget.cpp.o	ac2466afc8694e4b
+231	1378	1728368152748628535	CMakeFiles/19_QTabWidget.dir/main.cpp.o	4a43a2c1dfd737b8
+1378	1721	1728368153895610539	19_QTabWidget	640e4e381d64c857
+3	14	1728368488172223597	19_QTabWidget_autogen/timestamp	bf01bccba52e900
+3	14	1728368488172223597	19_QTabWidget_autogen/mocs_compilation.cpp	bf01bccba52e900
+3	14	1728368488172223597	/home/lms105/Qt_textbook/ch05/19_QTabWidget/build/Desktop_Qt_6_7_2-Debug/19_QTabWidget_autogen/timestamp	bf01bccba52e900
+3	14	1728368488172223597	/home/lms105/Qt_textbook/ch05/19_QTabWidget/build/Desktop_Qt_6_7_2-Debug/19_QTabWidget_autogen/mocs_compilation.cpp	bf01bccba52e900
+14	1079	1728368488183223476	CMakeFiles/19_QTabWidget.dir/widget.cpp.o	ac2466afc8694e4b
+1080	1421	1728368489249211684	19_QTabWidget	640e4e381d64c857

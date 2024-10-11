@@ -1,0 +1,9 @@
+# ninja log v6
+2	230	1728367951345228029	18_QSlider_autogen/timestamp	75e451f529ca84d4
+2	230	1728367951345228029	18_QSlider_autogen/mocs_compilation.cpp	75e451f529ca84d4
+2	230	1728367951345228029	/home/lms105/Qt_textbook/ch05/18_QSlider/build/Desktop_Qt_6_7_2-Debug/18_QSlider_autogen/timestamp	75e451f529ca84d4
+2	230	1728367951345228029	/home/lms105/Qt_textbook/ch05/18_QSlider/build/Desktop_Qt_6_7_2-Debug/18_QSlider_autogen/mocs_compilation.cpp	75e451f529ca84d4
+231	1361	1728367951351227907	CMakeFiles/18_QSlider.dir/widget.cpp.o	316abeb8ab4aaeca
+231	1407	1728367951351227907	CMakeFiles/18_QSlider.dir/main.cpp.o	1a69d5e6a18b59e7
+231	1434	1728367951351227907	CMakeFiles/18_QSlider.dir/18_QSlider_autogen/mocs_compilation.cpp.o	2f38dd6cbd79fdde
+1434	1712	1728367952554203449	18_QSlider	1139ba49f53b7a5

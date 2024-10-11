@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_21_QWidget_FILE /home/lms105/Qt_textbook/ch05/21_QWidget/build/Desktop_Qt_6_7_2-Debug/21_QWidget)
+set(__QT_DEPLOY_TARGET_21_QWidget_TYPE EXECUTABLE)

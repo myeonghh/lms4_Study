@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-26069f2f68e408d9b203.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Qt_designer_ex",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Qt_designer_ex::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Qt_designer_ex-Debug-08ec6e53fd2c822e8e09.json",
+					"name" : "Qt_designer_ex",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Qt_designer_ex_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Qt_designer_ex_autogen-Debug-50a574545acc971db4cf.json",
+					"name" : "Qt_designer_ex_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Qt_designer_ex_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Qt_designer_ex_autogen_timestamp_deps-Debug-a46eac7023fce3b19eec.json",
+					"name" : "Qt_designer_ex_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/lms105/project/lms4_study/Qt/Qt_designer_ex/build/Desktop_Qt_6_7_2-Debug",
+		"source" : "/home/lms105/project/lms4_study/Qt/Qt_designer_ex"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

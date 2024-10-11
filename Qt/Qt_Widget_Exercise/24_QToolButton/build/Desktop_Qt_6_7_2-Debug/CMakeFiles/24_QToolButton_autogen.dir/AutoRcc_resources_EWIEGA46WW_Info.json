@@ -1,0 +1,30 @@
+{
+	"BUILD_DIR" : "/home/lms105/Qt_textbook/ch05/24_QToolButton/build/Desktop_Qt_6_7_2-Debug/24_QToolButton_autogen",
+	"CMAKE_BINARY_DIR" : "/home/lms105/Qt_textbook/ch05/24_QToolButton/build/Desktop_Qt_6_7_2-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/lms105/Qt_textbook/ch05/24_QToolButton/build/Desktop_Qt_6_7_2-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/lms105/Qt_textbook/ch05/24_QToolButton",
+	"CMAKE_SOURCE_DIR" : "/home/lms105/Qt_textbook/ch05/24_QToolButton",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "/home/lms105/Qt_textbook/ch05/24_QToolButton/build/Desktop_Qt_6_7_2-Debug/24_QToolButton_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/lms105/Qt_textbook/ch05/24_QToolButton/resources/mail.png",
+		"/home/lms105/Qt_textbook/ch05/24_QToolButton/resources/calendar.png",
+		"/home/lms105/Qt_textbook/ch05/24_QToolButton/resources/browser.png",
+		"/home/lms105/Qt_textbook/ch05/24_QToolButton/resources/users.png",
+		"/home/lms105/Qt_textbook/ch05/24_QToolButton/resources/chat.png",
+		"/home/lms105/Qt_textbook/ch05/24_QToolButton/resources/editor.png"
+	],
+	"LOCK_FILE" : "/home/lms105/Qt_textbook/ch05/24_QToolButton/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/24_QToolButton_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "/home/lms105/Qt/6.7.2/gcc_64/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/lms105/Qt_textbook/ch05/24_QToolButton/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/24_QToolButton_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/lms105/Qt_textbook/ch05/24_QToolButton/resources.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

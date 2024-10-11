@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_Qt_designer_ex_FILE /home/lms105/project/lms4_study/Qt/Qt_designer_ex/build/Desktop_Qt_6_7_2-Debug/Qt_designer_ex)
+set(__QT_DEPLOY_TARGET_Qt_designer_ex_TYPE EXECUTABLE)

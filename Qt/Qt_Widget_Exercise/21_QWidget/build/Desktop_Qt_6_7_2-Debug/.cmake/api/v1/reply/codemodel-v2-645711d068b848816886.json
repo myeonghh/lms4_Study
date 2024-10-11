@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-ab9c06e0192d1ee8e055.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "21_QWidget",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "21_QWidget::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-21_QWidget-Debug-ef2fe8c8099cef55c3f5.json",
+					"name" : "21_QWidget",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "21_QWidget_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-21_QWidget_autogen-Debug-8398c6105b8db11bb59a.json",
+					"name" : "21_QWidget_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "21_QWidget_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-21_QWidget_autogen_timestamp_deps-Debug-f9b75d1ce33faadc9381.json",
+					"name" : "21_QWidget_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/lms105/Qt_textbook/ch05/21_QWidget/build/Desktop_Qt_6_7_2-Debug",
+		"source" : "/home/lms105/Qt_textbook/ch05/21_QWidget"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

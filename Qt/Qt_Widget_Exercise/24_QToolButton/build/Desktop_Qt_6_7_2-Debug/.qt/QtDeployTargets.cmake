@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_24_QToolButton_FILE /home/lms105/Qt_textbook/ch05/24_QToolButton/build/Desktop_Qt_6_7_2-Debug/24_QToolButton)
+set(__QT_DEPLOY_TARGET_24_QToolButton_TYPE EXECUTABLE)
