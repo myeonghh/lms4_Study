@@ -1,0 +1,9 @@
+# ninja log v6
+2	279	1728347133528656285	05_QDateTimeEdit_autogen/timestamp	a264a9efdc6c0b67
+2	279	1728347133528656285	05_QDateTimeEdit_autogen/mocs_compilation.cpp	a264a9efdc6c0b67
+2	279	1728347133528656285	/home/lms105/Qt_textbook/ch05/05_QDateTimeEdit/build/Desktop_Qt_6_7_2-Debug/05_QDateTimeEdit_autogen/timestamp	a264a9efdc6c0b67
+2	279	1728347133528656285	/home/lms105/Qt_textbook/ch05/05_QDateTimeEdit/build/Desktop_Qt_6_7_2-Debug/05_QDateTimeEdit_autogen/mocs_compilation.cpp	a264a9efdc6c0b67
+280	1463	1728347133534656143	CMakeFiles/05_QDateTimeEdit.dir/main.cpp.o	b447cbd319a09d4d
+280	1492	1728347133534656143	CMakeFiles/05_QDateTimeEdit.dir/05_QDateTimeEdit_autogen/mocs_compilation.cpp.o	62fd5a325cd99a57
+281	1498	1728347133535656119	CMakeFiles/05_QDateTimeEdit.dir/widget.cpp.o	2ff228ea527ffb1c
+1498	1778	1728347134752627191	05_QDateTimeEdit	b01b0d817c5f7a04

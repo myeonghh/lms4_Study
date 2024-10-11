@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_08_QPushButton_QFocusFrame_FILE /home/lms105/Qt_textbook/ch05/08_QPushButton_QFocusFrame/build/Desktop_Qt_6_7_2-Debug/08_QPushButton_QFocusFrame)
+set(__QT_DEPLOY_TARGET_08_QPushButton_QFocusFrame_TYPE EXECUTABLE)

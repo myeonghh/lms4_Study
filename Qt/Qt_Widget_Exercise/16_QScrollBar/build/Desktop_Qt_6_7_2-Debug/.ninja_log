@@ -1,0 +1,15 @@
+# ninja log v6
+1	223	1728363689547631294	16_QScrollBar_autogen/timestamp	638a714827f9dca6
+1	223	1728363689547631294	16_QScrollBar_autogen/mocs_compilation.cpp	638a714827f9dca6
+1	223	1728363689547631294	/home/lms105/Qt_textbook/ch05/16_QScrollBar/build/Desktop_Qt_6_7_2-Debug/16_QScrollBar_autogen/timestamp	638a714827f9dca6
+1	223	1728363689547631294	/home/lms105/Qt_textbook/ch05/16_QScrollBar/build/Desktop_Qt_6_7_2-Debug/16_QScrollBar_autogen/mocs_compilation.cpp	638a714827f9dca6
+224	1382	1728363689554631273	CMakeFiles/16_QScrollBar.dir/widget.cpp.o	8f567aa88268dd2d
+224	1394	1728363689554631273	CMakeFiles/16_QScrollBar.dir/main.cpp.o	c4313e4c79646b6c
+224	1408	1728363689554631273	CMakeFiles/16_QScrollBar.dir/16_QScrollBar_autogen/mocs_compilation.cpp.o	1dc4fa6cbe4be41a
+1408	1685	1728363690738627770	16_QScrollBar	4e47501a1c943e4b
+2	16	1728364881704534129	16_QScrollBar_autogen/timestamp	638a714827f9dca6
+2	16	1728364881704534129	16_QScrollBar_autogen/mocs_compilation.cpp	638a714827f9dca6
+2	16	1728364881704534129	/home/lms105/Qt_textbook/ch05/16_QScrollBar/build/Desktop_Qt_6_7_2-Debug/16_QScrollBar_autogen/timestamp	638a714827f9dca6
+2	16	1728364881704534129	/home/lms105/Qt_textbook/ch05/16_QScrollBar/build/Desktop_Qt_6_7_2-Debug/16_QScrollBar_autogen/mocs_compilation.cpp	638a714827f9dca6
+16	1123	1728364881718534024	CMakeFiles/16_QScrollBar.dir/widget.cpp.o	8f567aa88268dd2d
+1123	1400	1728364882825525684	16_QScrollBar	4e47501a1c943e4b

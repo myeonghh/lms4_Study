@@ -1,0 +1,12 @@
+# ninja log v6
+1	216	1728293123918905526	00_QCheckBox_autogen/timestamp	5eb82a0b126c9f09
+1	216	1728293123918905526	00_QCheckBox_autogen/mocs_compilation.cpp	5eb82a0b126c9f09
+1	216	1728293123918905526	/home/lms105/Qt_textbook/ch05/00_QCheckBox/build/Desktop_Qt_6_7_2-Debug/00_QCheckBox_autogen/timestamp	5eb82a0b126c9f09
+1	216	1728293123918905526	/home/lms105/Qt_textbook/ch05/00_QCheckBox/build/Desktop_Qt_6_7_2-Debug/00_QCheckBox_autogen/mocs_compilation.cpp	5eb82a0b126c9f09
+217	224	1728293123930905188	00_QCheckBox_autogen/EWIEGA46WW/qrc_resources.cpp	ee14b291fec48f0b
+217	224	1728293123930905188	/home/lms105/Qt_textbook/ch05/00_QCheckBox/build/Desktop_Qt_6_7_2-Debug/00_QCheckBox_autogen/EWIEGA46WW/qrc_resources.cpp	ee14b291fec48f0b
+225	264	1728293123932905131	CMakeFiles/00_QCheckBox.dir/00_QCheckBox_autogen/EWIEGA46WW/qrc_resources.cpp.o	eaa34b7b5d6504c9
+224	1327	1728293123931905159	CMakeFiles/00_QCheckBox.dir/00_QCheckBox_autogen/mocs_compilation.cpp.o	8874f889d5b23c40
+225	1361	1728293123932905131	CMakeFiles/00_QCheckBox.dir/widget.cpp.o	ef5c133067921511
+225	1384	1728293123932905131	CMakeFiles/00_QCheckBox.dir/main.cpp.o	54305eeec2f786db
+1384	1730	1728293125091872453	00_QCheckBox	1f800c4c0d548c9e

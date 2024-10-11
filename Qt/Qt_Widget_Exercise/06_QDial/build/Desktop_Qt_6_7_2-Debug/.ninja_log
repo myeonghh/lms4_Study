@@ -1,0 +1,15 @@
+# ninja log v6
+2	221	1728347542272559874	06_QDial_autogen/timestamp	e1ea04b6568a91b
+2	221	1728347542272559874	06_QDial_autogen/mocs_compilation.cpp	e1ea04b6568a91b
+2	221	1728347542272559874	/home/lms105/Qt_textbook/ch05/06_QDial/build/Desktop_Qt_6_7_2-Debug/06_QDial_autogen/timestamp	e1ea04b6568a91b
+2	221	1728347542272559874	/home/lms105/Qt_textbook/ch05/06_QDial/build/Desktop_Qt_6_7_2-Debug/06_QDial_autogen/mocs_compilation.cpp	e1ea04b6568a91b
+222	1349	1728347542279560123	CMakeFiles/06_QDial.dir/widget.cpp.o	4634f4b57e74c8d3
+221	1350	1728347542278560087	CMakeFiles/06_QDial.dir/06_QDial_autogen/mocs_compilation.cpp.o	4da5e942650b7255
+222	1355	1728347542279560123	CMakeFiles/06_QDial.dir/main.cpp.o	e5961d3fd0afe15
+1355	1625	1728347543412600342	06_QDial	d4e784eaa55eac96
+3	15	1728347565166348581	06_QDial_autogen/timestamp	e1ea04b6568a91b
+3	15	1728347565166348581	06_QDial_autogen/mocs_compilation.cpp	e1ea04b6568a91b
+3	15	1728347565166348581	/home/lms105/Qt_textbook/ch05/06_QDial/build/Desktop_Qt_6_7_2-Debug/06_QDial_autogen/timestamp	e1ea04b6568a91b
+3	15	1728347565166348581	/home/lms105/Qt_textbook/ch05/06_QDial/build/Desktop_Qt_6_7_2-Debug/06_QDial_autogen/mocs_compilation.cpp	e1ea04b6568a91b
+16	1093	1728347565179349014	CMakeFiles/06_QDial.dir/widget.cpp.o	4634f4b57e74c8d3
+1093	1371	1728347566256384889	06_QDial	d4e784eaa55eac96

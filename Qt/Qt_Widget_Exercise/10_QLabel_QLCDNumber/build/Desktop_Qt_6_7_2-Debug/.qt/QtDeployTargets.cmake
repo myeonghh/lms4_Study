@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_10_QLabel_QLCDNumber_FILE /home/lms105/Qt_textbook/ch05/10_QLabel_QLCDNumber/build/Desktop_Qt_6_7_2-Debug/10_QLabel_QLCDNumber)
+set(__QT_DEPLOY_TARGET_10_QLabel_QLCDNumber_TYPE EXECUTABLE)

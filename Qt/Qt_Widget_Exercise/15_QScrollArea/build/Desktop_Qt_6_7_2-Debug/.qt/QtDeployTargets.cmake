@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_15_QScrollArea_FILE /home/lms105/Qt_textbook/ch05/15_QScrollArea/build/Desktop_Qt_6_7_2-Debug/15_QScrollArea)
+set(__QT_DEPLOY_TARGET_15_QScrollArea_TYPE EXECUTABLE)

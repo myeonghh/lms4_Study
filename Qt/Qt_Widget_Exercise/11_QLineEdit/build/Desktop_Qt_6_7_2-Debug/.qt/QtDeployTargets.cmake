@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_11_QLineEdit_FILE /home/lms105/Qt_textbook/ch05/11_QLineEdit/build/Desktop_Qt_6_7_2-Debug/11_QLineEdit)
+set(__QT_DEPLOY_TARGET_11_QLineEdit_TYPE EXECUTABLE)

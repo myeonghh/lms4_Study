@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_05_QDateTimeEdit_FILE /home/lms105/Qt_textbook/ch05/05_QDateTimeEdit/build/Desktop_Qt_6_7_2-Debug/05_QDateTimeEdit)
+set(__QT_DEPLOY_TARGET_05_QDateTimeEdit_TYPE EXECUTABLE)

@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_02_QCommandLinkButton_FILE /home/lms105/Qt_textbook/ch05/02_QCommandLinkButton/build/Desktop_Qt_6_7_2-Debug/02_QCommandLinkButton)
+set(__QT_DEPLOY_TARGET_02_QCommandLinkButton_TYPE EXECUTABLE)

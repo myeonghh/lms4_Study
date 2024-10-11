@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_12_QMenu_QMenuBar_FILE /home/lms105/Qt_textbook/ch05/12_QMenu_QMenuBar/build/Desktop_Qt_6_7_2-Debug/12_QMenu_QMenuBar)
+set(__QT_DEPLOY_TARGET_12_QMenu_QMenuBar_TYPE EXECUTABLE)

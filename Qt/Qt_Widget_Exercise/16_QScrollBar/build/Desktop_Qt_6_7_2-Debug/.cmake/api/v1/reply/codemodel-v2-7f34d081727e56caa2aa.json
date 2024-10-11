@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-172e529fcbd0fb1ce0b7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "16_QScrollBar",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "16_QScrollBar::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-16_QScrollBar-Debug-d46ba9ad86a0b347892d.json",
+					"name" : "16_QScrollBar",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "16_QScrollBar_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-16_QScrollBar_autogen-Debug-cb669028efd73f0d310b.json",
+					"name" : "16_QScrollBar_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "16_QScrollBar_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-16_QScrollBar_autogen_timestamp_deps-Debug-c0bd915aa7b2f26a3911.json",
+					"name" : "16_QScrollBar_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/lms105/Qt_textbook/ch05/16_QScrollBar/build/Desktop_Qt_6_7_2-Debug",
+		"source" : "/home/lms105/Qt_textbook/ch05/16_QScrollBar"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

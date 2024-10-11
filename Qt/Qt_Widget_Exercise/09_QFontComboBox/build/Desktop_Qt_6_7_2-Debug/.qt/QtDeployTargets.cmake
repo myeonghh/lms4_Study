@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_09_QFontComboBox_FILE /home/lms105/Qt_textbook/ch05/09_QFontComboBox/build/Desktop_Qt_6_7_2-Debug/09_QFontComboBox)
+set(__QT_DEPLOY_TARGET_09_QFontComboBox_TYPE EXECUTABLE)

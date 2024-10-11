@@ -1,0 +1,9 @@
+# ninja log v6
+2	218	1728355311193401841	12_QMenu_QMenuBar_autogen/timestamp	b48139b4d7f0a945
+2	218	1728355311193401841	12_QMenu_QMenuBar_autogen/mocs_compilation.cpp	b48139b4d7f0a945
+2	218	1728355311193401841	/home/lms105/Qt_textbook/ch05/12_QMenu_QMenuBar/build/Desktop_Qt_6_7_2-Debug/12_QMenu_QMenuBar_autogen/timestamp	b48139b4d7f0a945
+2	218	1728355311193401841	/home/lms105/Qt_textbook/ch05/12_QMenu_QMenuBar/build/Desktop_Qt_6_7_2-Debug/12_QMenu_QMenuBar_autogen/mocs_compilation.cpp	b48139b4d7f0a945
+220	1365	1728355311199401834	CMakeFiles/12_QMenu_QMenuBar.dir/widget.cpp.o	3916653b40fa0d3e
+220	1369	1728355311199401834	CMakeFiles/12_QMenu_QMenuBar.dir/main.cpp.o	e929a0ad3fc7dddc
+219	1432	1728355311198401835	CMakeFiles/12_QMenu_QMenuBar.dir/12_QMenu_QMenuBar_autogen/mocs_compilation.cpp.o	9c413556f2fe296
+1432	1775	1728355312411400442	12_QMenu_QMenuBar	c72fd81a2219df61

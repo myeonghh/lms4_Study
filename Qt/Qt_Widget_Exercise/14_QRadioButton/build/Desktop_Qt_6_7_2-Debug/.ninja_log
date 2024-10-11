@@ -1,0 +1,9 @@
+# ninja log v6
+2	249	1728358183905875797	14_QRadioButton_autogen/timestamp	1b86e0b3783f9474
+2	249	1728358183905875797	14_QRadioButton_autogen/mocs_compilation.cpp	1b86e0b3783f9474
+2	249	1728358183905875797	/home/lms105/Qt_textbook/ch05/14_QRadioButton/build/Desktop_Qt_6_7_2-Debug/14_QRadioButton_autogen/timestamp	1b86e0b3783f9474
+2	249	1728358183905875797	/home/lms105/Qt_textbook/ch05/14_QRadioButton/build/Desktop_Qt_6_7_2-Debug/14_QRadioButton_autogen/mocs_compilation.cpp	1b86e0b3783f9474
+250	1362	1728358183912875847	CMakeFiles/14_QRadioButton.dir/14_QRadioButton_autogen/mocs_compilation.cpp.o	43560013c22f130c
+250	1393	1728358183912875847	CMakeFiles/14_QRadioButton.dir/widget.cpp.o	bac006e3ec40085c
+250	1407	1728358183912875847	CMakeFiles/14_QRadioButton.dir/main.cpp.o	5bc9e0467805de95
+1407	1689	1728358185069884083	14_QRadioButton	1a6352d0fdf9162

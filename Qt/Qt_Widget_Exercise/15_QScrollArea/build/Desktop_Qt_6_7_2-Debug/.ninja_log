@@ -1,0 +1,12 @@
+# ninja log v6
+2	224	1728358681675799098	15_QScrollArea_autogen/timestamp	7fd2846a9390a6a7
+2	224	1728358681675799098	15_QScrollArea_autogen/mocs_compilation.cpp	7fd2846a9390a6a7
+2	224	1728358681675799098	/home/lms105/Qt_textbook/ch05/15_QScrollArea/build/Desktop_Qt_6_7_2-Debug/15_QScrollArea_autogen/timestamp	7fd2846a9390a6a7
+2	224	1728358681675799098	/home/lms105/Qt_textbook/ch05/15_QScrollArea/build/Desktop_Qt_6_7_2-Debug/15_QScrollArea_autogen/mocs_compilation.cpp	7fd2846a9390a6a7
+225	237	1728358681690799121	15_QScrollArea_autogen/EWIEGA46WW/qrc_resources.cpp	bdb384a3cc1ac17e
+225	237	1728358681690799121	/home/lms105/Qt_textbook/ch05/15_QScrollArea/build/Desktop_Qt_6_7_2-Debug/15_QScrollArea_autogen/EWIEGA46WW/qrc_resources.cpp	bdb384a3cc1ac17e
+238	339	1728358681693799125	CMakeFiles/15_QScrollArea.dir/15_QScrollArea_autogen/EWIEGA46WW/qrc_resources.cpp.o	ada605f66318bf3
+237	1382	1728358681692799124	CMakeFiles/15_QScrollArea.dir/widget.cpp.o	3481b2729a8aa17b
+237	1411	1728358681692799124	CMakeFiles/15_QScrollArea.dir/main.cpp.o	31b54c807745cd94
+237	1431	1728358681692799124	CMakeFiles/15_QScrollArea.dir/15_QScrollArea_autogen/mocs_compilation.cpp.o	9614fd136ed7954a
+1432	1777	1728358682887800910	15_QScrollArea	e6fbc67cdd808770

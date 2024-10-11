@@ -1,0 +1,9 @@
+# ninja log v6
+2	223	1728356386666683632	13_QProgressBar_autogen/timestamp	833f3f29c22aa098
+2	223	1728356386666683632	13_QProgressBar_autogen/mocs_compilation.cpp	833f3f29c22aa098
+2	223	1728356386666683632	/home/lms105/Qt_textbook/ch05/13_QProgressBar/build/Desktop_Qt_6_7_2-Debug/13_QProgressBar_autogen/timestamp	833f3f29c22aa098
+2	223	1728356386666683632	/home/lms105/Qt_textbook/ch05/13_QProgressBar/build/Desktop_Qt_6_7_2-Debug/13_QProgressBar_autogen/mocs_compilation.cpp	833f3f29c22aa098
+225	1337	1728356386674683527	CMakeFiles/13_QProgressBar.dir/widget.cpp.o	bd1ddee1b2b5121e
+224	1344	1728356386673683541	CMakeFiles/13_QProgressBar.dir/13_QProgressBar_autogen/mocs_compilation.cpp.o	93993c73c0747dd3
+225	1377	1728356386674683527	CMakeFiles/13_QProgressBar.dir/main.cpp.o	ad2d5c45ad28a0a
+1377	1653	1728356387826668445	13_QProgressBar	fc7fba0ff9f01f1f

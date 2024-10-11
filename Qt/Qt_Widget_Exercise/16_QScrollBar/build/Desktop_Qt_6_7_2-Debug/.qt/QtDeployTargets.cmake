@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_16_QScrollBar_FILE /home/lms105/Qt_textbook/ch05/16_QScrollBar/build/Desktop_Qt_6_7_2-Debug/16_QScrollBar)
+set(__QT_DEPLOY_TARGET_16_QScrollBar_TYPE EXECUTABLE)

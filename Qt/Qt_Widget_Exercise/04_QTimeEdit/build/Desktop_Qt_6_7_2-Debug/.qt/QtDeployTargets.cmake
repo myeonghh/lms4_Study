@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_04_QTimeEdit_FILE /home/lms105/Qt_textbook/ch05/04_QTimeEdit/build/Desktop_Qt_6_7_2-Debug/04_QTimeEdit)
+set(__QT_DEPLOY_TARGET_04_QTimeEdit_TYPE EXECUTABLE)

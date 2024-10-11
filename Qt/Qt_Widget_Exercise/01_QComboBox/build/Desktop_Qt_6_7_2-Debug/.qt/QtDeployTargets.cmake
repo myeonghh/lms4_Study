@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_01_QComboBox_FILE /home/lms105/Qt_textbook/ch05/01_QComboBox/build/Desktop_Qt_6_7_2-Debug/01_QComboBox)
+set(__QT_DEPLOY_TARGET_01_QComboBox_TYPE EXECUTABLE)

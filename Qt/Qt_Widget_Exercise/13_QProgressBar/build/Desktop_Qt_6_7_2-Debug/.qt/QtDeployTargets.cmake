@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_13_QProgressBar_FILE /home/lms105/Qt_textbook/ch05/13_QProgressBar/build/Desktop_Qt_6_7_2-Debug/13_QProgressBar)
+set(__QT_DEPLOY_TARGET_13_QProgressBar_TYPE EXECUTABLE)

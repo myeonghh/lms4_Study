@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_07_QSpinBox_QDoubleSpinBox_FILE /home/lms105/Qt_textbook/ch05/07_QSpinBox_QDoubleSpinBox/build/Desktop_Qt_6_7_2-Debug/07_QSpinBox_QDoubleSpinBox)
+set(__QT_DEPLOY_TARGET_07_QSpinBox_QDoubleSpinBox_TYPE EXECUTABLE)
