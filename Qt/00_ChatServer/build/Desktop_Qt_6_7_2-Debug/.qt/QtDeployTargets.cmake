@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_00_ChatServer_FILE /home/lms105/Qt_textbook/ch28/sub_06/00_ChatServer/build/Desktop_Qt_6_7_2-Debug/00_ChatServer)
+set(__QT_DEPLOY_TARGET_00_ChatServer_TYPE EXECUTABLE)

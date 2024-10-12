@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_00_ChatClient_FILE /home/lms105/Qt_textbook/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug/00_ChatClient)
+set(__QT_DEPLOY_TARGET_00_ChatClient_TYPE EXECUTABLE)
