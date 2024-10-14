@@ -1,5 +1,5 @@
-/home/lms105/Qt_textbook/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug/00_ChatClient_autogen/EWIEGA46WW/moc_widget.cpp: /home/lms105/Qt_textbook/ch28/sub_06/00_ChatClient/widget.h \
-  /home/lms105/Qt_textbook/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug/00_ChatClient_autogen/moc_predefs.h \
+/home/lms105/project/lms4_study/Qt/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug/00_ChatClient_autogen/EWIEGA46WW/moc_widget.cpp: /home/lms105/project/lms4_study/Qt/ch28/sub_06/00_ChatClient/widget.h \
+  /home/lms105/project/lms4_study/Qt/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug/00_ChatClient_autogen/moc_predefs.h \
   /home/lms105/Qt/6.7.2/gcc_64/include/QtCore/q20functional.h \
   /home/lms105/Qt/6.7.2/gcc_64/include/QtCore/q20memory.h \
   /home/lms105/Qt/6.7.2/gcc_64/include/QtCore/q20type_traits.h \
@@ -155,7 +155,7 @@
   /home/lms105/Qt/6.7.2/gcc_64/include/QtWidgets/qtwidgetsexports.h \
   /home/lms105/Qt/6.7.2/gcc_64/include/QtWidgets/qtwidgetsglobal.h \
   /home/lms105/Qt/6.7.2/gcc_64/include/QtWidgets/qwidget.h \
-  /home/lms105/Qt_textbook/ch28/sub_06/00_ChatClient/loginwidget.h \
+  /home/lms105/project/lms4_study/Qt/ch28/sub_06/00_ChatClient/loginwidget.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

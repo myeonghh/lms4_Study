@@ -42,7 +42,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /home/lms105/Qt/Tools/CMake/bin/cmake --regenerate-during-build -S/home/lms105/Qt_textbook/ch28/sub_06/00_ChatClient -B/home/lms105/Qt_textbook/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug
+  command = /home/lms105/Qt/Tools/CMake/bin/cmake --regenerate-during-build -S/home/lms105/project/lms4_study/Qt/ch28/sub_06/00_ChatClient -B/home/lms105/project/lms4_study/Qt/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug
   description = Re-running CMake...
   generator = 1
 

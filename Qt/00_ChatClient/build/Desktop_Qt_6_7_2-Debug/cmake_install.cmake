@@ -1,4 +1,4 @@
-# Install script for directory: /home/lms105/Qt_textbook/ch28/sub_06/00_ChatClient
+# Install script for directory: /home/lms105/project/lms4_study/Qt/ch28/sub_06/00_ChatClient
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -49,7 +49,7 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/00_ChatClient"
          RPATH "")
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE EXECUTABLE FILES "/home/lms105/Qt_textbook/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug/00_ChatClient")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE EXECUTABLE FILES "/home/lms105/project/lms4_study/Qt/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug/00_ChatClient")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/00_ChatClient" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/00_ChatClient")
     file(RPATH_CHANGE
@@ -70,5 +70,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/lms105/Qt_textbook/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/lms105/project/lms4_study/Qt/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -1,16 +1,16 @@
 {
-	"BUILD_DIR" : "/home/lms105/Qt_textbook/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug/00_ChatClient_autogen",
-	"CMAKE_BINARY_DIR" : "/home/lms105/Qt_textbook/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug",
-	"CMAKE_CURRENT_BINARY_DIR" : "/home/lms105/Qt_textbook/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug",
-	"CMAKE_CURRENT_SOURCE_DIR" : "/home/lms105/Qt_textbook/ch28/sub_06/00_ChatClient",
+	"BUILD_DIR" : "/home/lms105/project/lms4_study/Qt/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug/00_ChatClient_autogen",
+	"CMAKE_BINARY_DIR" : "/home/lms105/project/lms4_study/Qt/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/lms105/project/lms4_study/Qt/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/lms105/project/lms4_study/Qt/ch28/sub_06/00_ChatClient",
 	"CMAKE_EXECUTABLE" : "/home/lms105/Qt/Tools/CMake/bin/cmake",
 	"CMAKE_LIST_FILES" : 
 	[
-		"/home/lms105/Qt_textbook/ch28/sub_06/00_ChatClient/CMakeLists.txt",
-		"/home/lms105/Qt_textbook/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug/.qtc/package-manager/auto-setup.cmake",
+		"/home/lms105/project/lms4_study/Qt/ch28/sub_06/00_ChatClient/CMakeLists.txt",
+		"/home/lms105/project/lms4_study/Qt/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug/.qtc/package-manager/auto-setup.cmake",
 		"/home/lms105/Qt/Tools/CMake/share/cmake-3.29/Modules/CMakeDetermineSystem.cmake",
 		"/home/lms105/Qt/Tools/CMake/share/cmake-3.29/Modules/CMakeSystem.cmake.in",
-		"/home/lms105/Qt_textbook/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/3.29.3/CMakeSystem.cmake",
+		"/home/lms105/project/lms4_study/Qt/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/3.29.3/CMakeSystem.cmake",
 		"/home/lms105/Qt/Tools/CMake/share/cmake-3.29/Modules/CMakeNinjaFindMake.cmake",
 		"/home/lms105/Qt/Tools/CMake/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake",
 		"/home/lms105/Qt/Tools/CMake/share/cmake-3.29/Modules/Platform/Linux-Initialize.cmake",
@@ -64,7 +64,7 @@
 		"/home/lms105/Qt/Tools/CMake/share/cmake-3.29/Modules/CMakeFindBinUtils.cmake",
 		"/home/lms105/Qt/Tools/CMake/share/cmake-3.29/Modules/Compiler/GNU-FindBinUtils.cmake",
 		"/home/lms105/Qt/Tools/CMake/share/cmake-3.29/Modules/CMakeCXXCompiler.cmake.in",
-		"/home/lms105/Qt_textbook/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/3.29.3/CMakeCXXCompiler.cmake",
+		"/home/lms105/project/lms4_study/Qt/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/3.29.3/CMakeCXXCompiler.cmake",
 		"/home/lms105/Qt/Tools/CMake/share/cmake-3.29/Modules/CMakeSystemSpecificInformation.cmake",
 		"/home/lms105/Qt/Tools/CMake/share/cmake-3.29/Modules/CMakeGenericSystem.cmake",
 		"/home/lms105/Qt/Tools/CMake/share/cmake-3.29/Modules/CMakeInitializeConfigs.cmake",
@@ -90,7 +90,7 @@
 		"/home/lms105/Qt/Tools/CMake/share/cmake-3.29/Modules/CMakeDetermineCompileFeatures.cmake",
 		"/home/lms105/Qt/Tools/CMake/share/cmake-3.29/Modules/Internal/FeatureTesting.cmake",
 		"/home/lms105/Qt/Tools/CMake/share/cmake-3.29/Modules/CMakeCXXCompiler.cmake.in",
-		"/home/lms105/Qt_textbook/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/3.29.3/CMakeCXXCompiler.cmake",
+		"/home/lms105/project/lms4_study/Qt/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/3.29.3/CMakeCXXCompiler.cmake",
 		"/home/lms105/Qt/6.7.2/gcc_64/lib/cmake/Qt6/Qt6ConfigVersion.cmake",
 		"/home/lms105/Qt/6.7.2/gcc_64/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake",
 		"/home/lms105/Qt/6.7.2/gcc_64/lib/cmake/Qt6/Qt6Config.cmake",
@@ -453,28 +453,28 @@
 		"/home/lms105/Qt/6.7.2/gcc_64/lib/cmake/Qt6Network/Qt6QTlsBackendOpenSSLPluginAdditionalTargetInfo.cmake",
 		"/home/lms105/Qt/Tools/CMake/share/cmake-3.29/Modules/GNUInstallDirs.cmake"
 	],
-	"CMAKE_SOURCE_DIR" : "/home/lms105/Qt_textbook/ch28/sub_06/00_ChatClient",
+	"CMAKE_SOURCE_DIR" : "/home/lms105/project/lms4_study/Qt/ch28/sub_06/00_ChatClient",
 	"CROSS_CONFIG" : false,
-	"DEP_FILE" : "/home/lms105/Qt_textbook/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug/00_ChatClient_autogen/deps",
+	"DEP_FILE" : "/home/lms105/project/lms4_study/Qt/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug/00_ChatClient_autogen/deps",
 	"DEP_FILE_RULE_NAME" : "00_ChatClient_autogen/timestamp",
 	"HEADERS" : 
 	[
 		[
-			"/home/lms105/Qt_textbook/ch28/sub_06/00_ChatClient/loginwidget.h",
+			"/home/lms105/project/lms4_study/Qt/ch28/sub_06/00_ChatClient/loginwidget.h",
 			"MU",
 			"EWIEGA46WW/moc_loginwidget.cpp",
 			null
 		],
 		[
-			"/home/lms105/Qt_textbook/ch28/sub_06/00_ChatClient/widget.h",
+			"/home/lms105/project/lms4_study/Qt/ch28/sub_06/00_ChatClient/widget.h",
 			"MU",
 			"EWIEGA46WW/moc_widget.cpp",
 			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
-	"INCLUDE_DIR" : "/home/lms105/Qt_textbook/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug/00_ChatClient_autogen/include",
-	"MOC_COMPILATION_FILE" : "/home/lms105/Qt_textbook/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug/00_ChatClient_autogen/mocs_compilation.cpp",
+	"INCLUDE_DIR" : "/home/lms105/project/lms4_study/Qt/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug/00_ChatClient_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/lms105/project/lms4_study/Qt/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug/00_ChatClient_autogen/mocs_compilation.cpp",
 	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_NETWORK_LIB", "QT_WIDGETS_LIB" ],
 	"MOC_DEPEND_FILTERS" : 
 	[
@@ -519,31 +519,31 @@
 		"-c",
 		"/home/lms105/Qt/Tools/CMake/share/cmake-3.29/Modules/CMakeCXXCompilerABI.cpp"
 	],
-	"MOC_PREDEFS_FILE" : "/home/lms105/Qt_textbook/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug/00_ChatClient_autogen/moc_predefs.h",
+	"MOC_PREDEFS_FILE" : "/home/lms105/project/lms4_study/Qt/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug/00_ChatClient_autogen/moc_predefs.h",
 	"MOC_RELAXED_MODE" : false,
 	"MOC_SKIP" : [],
 	"MULTI_CONFIG" : false,
 	"PARALLEL" : 8,
-	"PARSE_CACHE_FILE" : "/home/lms105/Qt_textbook/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/00_ChatClient_autogen.dir/ParseCache.txt",
+	"PARSE_CACHE_FILE" : "/home/lms105/project/lms4_study/Qt/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/00_ChatClient_autogen.dir/ParseCache.txt",
 	"QT_MOC_EXECUTABLE" : "/home/lms105/Qt/6.7.2/gcc_64/./libexec/moc",
 	"QT_UIC_EXECUTABLE" : "/home/lms105/Qt/6.7.2/gcc_64/./libexec/uic",
 	"QT_VERSION_MAJOR" : 6,
 	"QT_VERSION_MINOR" : 7,
-	"SETTINGS_FILE" : "/home/lms105/Qt_textbook/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/00_ChatClient_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE" : "/home/lms105/project/lms4_study/Qt/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/00_ChatClient_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
 		[
-			"/home/lms105/Qt_textbook/ch28/sub_06/00_ChatClient/loginwidget.cpp",
+			"/home/lms105/project/lms4_study/Qt/ch28/sub_06/00_ChatClient/loginwidget.cpp",
 			"MU",
 			null
 		],
 		[
-			"/home/lms105/Qt_textbook/ch28/sub_06/00_ChatClient/main.cpp",
+			"/home/lms105/project/lms4_study/Qt/ch28/sub_06/00_ChatClient/main.cpp",
 			"MU",
 			null
 		],
 		[
-			"/home/lms105/Qt_textbook/ch28/sub_06/00_ChatClient/widget.cpp",
+			"/home/lms105/project/lms4_study/Qt/ch28/sub_06/00_ChatClient/widget.cpp",
 			"MU",
 			null
 		]

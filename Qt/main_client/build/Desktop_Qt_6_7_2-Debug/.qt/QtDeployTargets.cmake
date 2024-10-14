@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_main_client_FILE /home/lms105/project/lms4_study/Qt/main_client/build/Desktop_Qt_6_7_2-Debug/main_client)
+set(__QT_DEPLOY_TARGET_main_client_TYPE EXECUTABLE)

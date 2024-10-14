@@ -1,0 +1,10 @@
+# ninja log v6
+2	350	1728712035139675158	00_ChatServer_autogen/timestamp	d830e836081e290
+2	350	1728712035139675158	00_ChatServer_autogen/mocs_compilation.cpp	d830e836081e290
+2	350	1728712035139675158	/home/lms105/project/lms4_study/Qt/ch28/sub_06/00_ChatServer/build/Desktop_Qt_6_7_2-Debug/00_ChatServer_autogen/timestamp	d830e836081e290
+2	350	1728712035139675158	/home/lms105/project/lms4_study/Qt/ch28/sub_06/00_ChatServer/build/Desktop_Qt_6_7_2-Debug/00_ChatServer_autogen/mocs_compilation.cpp	d830e836081e290
+351	2275	1728712035145675101	CMakeFiles/00_ChatServer.dir/00_ChatServer_autogen/mocs_compilation.cpp.o	1bee6beea664444
+351	2387	1728712035145675101	CMakeFiles/00_ChatServer.dir/main.cpp.o	ad28e6d33b74eaed
+352	2664	1728712035146675092	CMakeFiles/00_ChatServer.dir/chatserver.cpp.o	f2ec72a99f5aa531
+352	2670	1728712035146675092	CMakeFiles/00_ChatServer.dir/widget.cpp.o	312b50823f229727
+2670	3194	1728712037464653149	00_ChatServer	9c293fde02aa240f

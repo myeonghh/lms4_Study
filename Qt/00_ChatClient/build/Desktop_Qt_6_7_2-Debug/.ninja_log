@@ -1,17 +1,10 @@
 # ninja log v6
-1	269	1728632970719157489	00_ChatClient_autogen/timestamp	d59bce1c06b84297
-1	269	1728632970719157489	00_ChatClient_autogen/mocs_compilation.cpp	d59bce1c06b84297
-1	269	1728632970719157489	/home/lms105/Qt_textbook/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug/00_ChatClient_autogen/timestamp	d59bce1c06b84297
-1	269	1728632970719157489	/home/lms105/Qt_textbook/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug/00_ChatClient_autogen/mocs_compilation.cpp	d59bce1c06b84297
-270	1464	1728632970725157450	CMakeFiles/00_ChatClient.dir/00_ChatClient_autogen/mocs_compilation.cpp.o	2c1c8d2c2e4610de
-270	1476	1728632970725157450	CMakeFiles/00_ChatClient.dir/main.cpp.o	bb68f07d2eb44524
-270	1589	1728632970725157450	CMakeFiles/00_ChatClient.dir/loginwidget.cpp.o	80d3fc9d75a65dde
-270	1644	1728632970725157450	CMakeFiles/00_ChatClient.dir/widget.cpp.o	d18ef42c3da37a09
-1644	1969	1728632972099148582	00_ChatClient	216102a2c5ad3da9
-2	14	1728639878534545224	00_ChatClient_autogen/timestamp	d59bce1c06b84297
-2	14	1728639878534545224	00_ChatClient_autogen/mocs_compilation.cpp	d59bce1c06b84297
-2	14	1728639878534545224	/home/lms105/Qt_textbook/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug/00_ChatClient_autogen/timestamp	d59bce1c06b84297
-2	14	1728639878534545224	/home/lms105/Qt_textbook/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug/00_ChatClient_autogen/mocs_compilation.cpp	d59bce1c06b84297
-15	1286	1728639878547545145	CMakeFiles/00_ChatClient.dir/loginwidget.cpp.o	80d3fc9d75a65dde
-15	1335	1728639878547545145	CMakeFiles/00_ChatClient.dir/widget.cpp.o	d18ef42c3da37a09
-1335	1662	1728639879867537198	00_ChatClient	216102a2c5ad3da9
+2	249	1728710842746781391	00_ChatClient_autogen/timestamp	57eb1206bfd6f525
+2	249	1728710842746781391	00_ChatClient_autogen/mocs_compilation.cpp	57eb1206bfd6f525
+2	249	1728710842746781391	/home/lms105/project/lms4_study/Qt/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug/00_ChatClient_autogen/timestamp	57eb1206bfd6f525
+2	249	1728710842746781391	/home/lms105/project/lms4_study/Qt/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug/00_ChatClient_autogen/mocs_compilation.cpp	57eb1206bfd6f525
+250	1436	1728710842752781181	CMakeFiles/00_ChatClient.dir/main.cpp.o	700a9606779d617a
+249	1439	1728710842751781216	CMakeFiles/00_ChatClient.dir/00_ChatClient_autogen/mocs_compilation.cpp.o	f82fcf96cba91d10
+250	1541	1728710842752781181	CMakeFiles/00_ChatClient.dir/loginwidget.cpp.o	712d7ea1f620eeb
+250	1620	1728710842752781181	CMakeFiles/00_ChatClient.dir/widget.cpp.o	9b3fe3bb80626a54
+1620	1928	1728710844123733140	00_ChatClient	216102a2c5ad3da9

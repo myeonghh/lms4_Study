@@ -1,5 +1,5 @@
-/home/lms105/Qt_textbook/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug/00_ChatClient_autogen/EWIEGA46WW/moc_loginwidget.cpp: /home/lms105/Qt_textbook/ch28/sub_06/00_ChatClient/loginwidget.h \
-  /home/lms105/Qt_textbook/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug/00_ChatClient_autogen/moc_predefs.h \
+/home/lms105/project/lms4_study/Qt/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug/00_ChatClient_autogen/EWIEGA46WW/moc_loginwidget.cpp: /home/lms105/project/lms4_study/Qt/ch28/sub_06/00_ChatClient/loginwidget.h \
+  /home/lms105/project/lms4_study/Qt/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug/00_ChatClient_autogen/moc_predefs.h \
   /home/lms105/Qt/6.7.2/gcc_64/include/QtCore/q20functional.h \
   /home/lms105/Qt/6.7.2/gcc_64/include/QtCore/q20memory.h \
   /home/lms105/Qt/6.7.2/gcc_64/include/QtCore/q20type_traits.h \

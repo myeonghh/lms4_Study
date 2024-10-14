@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-832ea58b2dc9c25a9d5b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "main_client",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "main_client::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main_client-Debug-252cae46e1c952090519.json",
+					"name" : "main_client",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main_client_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main_client_autogen-Debug-1fbfc2d288873ce618c0.json",
+					"name" : "main_client_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main_client_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main_client_autogen_timestamp_deps-Debug-72355d3e38cf865615d5.json",
+					"name" : "main_client_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/lms105/project/lms4_study/Qt/main_client/build/Desktop_Qt_6_7_2-Debug",
+		"source" : "/home/lms105/project/lms4_study/Qt/main_client"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

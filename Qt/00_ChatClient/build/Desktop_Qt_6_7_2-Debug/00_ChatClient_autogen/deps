@@ -488,16 +488,16 @@
 	/home/lms105/Qt/Tools/CMake/share/cmake-3.29/Modules/Platform/Linux-Initialize.cmake \
 	/home/lms105/Qt/Tools/CMake/share/cmake-3.29/Modules/Platform/Linux.cmake \
 	/home/lms105/Qt/Tools/CMake/share/cmake-3.29/Modules/Platform/UnixPaths.cmake \
-	/home/lms105/Qt_textbook/ch28/sub_06/00_ChatClient/CMakeLists.txt \
-	/home/lms105/Qt_textbook/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug/.qtc/package-manager/auto-setup.cmake \
-	/home/lms105/Qt_textbook/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug/00_ChatClient_autogen/moc_predefs.h \
-	/home/lms105/Qt_textbook/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/3.29.3/CMakeCXXCompiler.cmake \
-	/home/lms105/Qt_textbook/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/3.29.3/CMakeSystem.cmake \
-	/home/lms105/Qt_textbook/ch28/sub_06/00_ChatClient/loginwidget.cpp \
-	/home/lms105/Qt_textbook/ch28/sub_06/00_ChatClient/loginwidget.h \
-	/home/lms105/Qt_textbook/ch28/sub_06/00_ChatClient/main.cpp \
-	/home/lms105/Qt_textbook/ch28/sub_06/00_ChatClient/widget.cpp \
-	/home/lms105/Qt_textbook/ch28/sub_06/00_ChatClient/widget.h \
+	/home/lms105/project/lms4_study/Qt/ch28/sub_06/00_ChatClient/CMakeLists.txt \
+	/home/lms105/project/lms4_study/Qt/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug/.qtc/package-manager/auto-setup.cmake \
+	/home/lms105/project/lms4_study/Qt/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug/00_ChatClient_autogen/moc_predefs.h \
+	/home/lms105/project/lms4_study/Qt/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/3.29.3/CMakeCXXCompiler.cmake \
+	/home/lms105/project/lms4_study/Qt/ch28/sub_06/00_ChatClient/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/3.29.3/CMakeSystem.cmake \
+	/home/lms105/project/lms4_study/Qt/ch28/sub_06/00_ChatClient/loginwidget.cpp \
+	/home/lms105/project/lms4_study/Qt/ch28/sub_06/00_ChatClient/loginwidget.h \
+	/home/lms105/project/lms4_study/Qt/ch28/sub_06/00_ChatClient/main.cpp \
+	/home/lms105/project/lms4_study/Qt/ch28/sub_06/00_ChatClient/widget.cpp \
+	/home/lms105/project/lms4_study/Qt/ch28/sub_06/00_ChatClient/widget.h \
 	/usr/include/alloca.h \
 	/usr/include/asm-generic/errno-base.h \
 	/usr/include/asm-generic/errno.h \
@@ -751,6 +751,6 @@
 	/usr/lib/gcc/x86_64-linux-gnu/11/include/stdarg.h \
 	/usr/lib/gcc/x86_64-linux-gnu/11/include/stdbool.h \
 	/usr/lib/gcc/x86_64-linux-gnu/11/include/stddef.h \
-	/home/lms105/Qt_textbook/ch28/sub_06/00_ChatClient/loginwidget.ui \
-	/home/lms105/Qt_textbook/ch28/sub_06/00_ChatClient/widget.ui \
+	/home/lms105/project/lms4_study/Qt/ch28/sub_06/00_ChatClient/loginwidget.ui \
+	/home/lms105/project/lms4_study/Qt/ch28/sub_06/00_ChatClient/widget.ui \
 	/home/lms105/Qt/Tools/CMake/bin/cmake

@@ -1,0 +1,13 @@
+# ninja log v6
+1	265	1728719665910031525	main_client_autogen/timestamp	7336d794064f4f02
+1	265	1728719665910031525	main_client_autogen/mocs_compilation.cpp	7336d794064f4f02
+1	265	1728719665910031525	/home/lms105/project/lms4_study/Qt/main_client/build/Desktop_Qt_6_7_2-Debug/main_client_autogen/timestamp	7336d794064f4f02
+1	265	1728719665910031525	/home/lms105/project/lms4_study/Qt/main_client/build/Desktop_Qt_6_7_2-Debug/main_client_autogen/mocs_compilation.cpp	7336d794064f4f02
+266	1413	1728719665915031594	CMakeFiles/main_client.dir/main_client_autogen/mocs_compilation.cpp.o	8bf15679b4181f7b
+267	1435	1728719665916031608	CMakeFiles/main_client.dir/main.cpp.o	44d2d4682d140447
+267	1452	1728719665916031608	CMakeFiles/main_client.dir/widget.cpp.o	cc7d443329c7f384
+4	16	1728719869820425544	main_client_autogen/timestamp	7336d794064f4f02
+4	16	1728719869820425544	main_client_autogen/mocs_compilation.cpp	7336d794064f4f02
+4	16	1728719869820425544	/home/lms105/project/lms4_study/Qt/main_client/build/Desktop_Qt_6_7_2-Debug/main_client_autogen/timestamp	7336d794064f4f02
+4	16	1728719869820425544	/home/lms105/project/lms4_study/Qt/main_client/build/Desktop_Qt_6_7_2-Debug/main_client_autogen/mocs_compilation.cpp	7336d794064f4f02
+16	1133	1728719869832425664	CMakeFiles/main_client.dir/widget.cpp.o	cc7d443329c7f384
